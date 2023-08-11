@@ -26,6 +26,9 @@
 ![](https://github.com/Harsh9174/Sms-Email-spam-detector-ML/blob/main/Data/spam%20or%20ham.png?raw=true)
 
 ![](https://github.com/Harsh9174/Sms-Email-spam-detector-ML/blob/main/Data/inisights3.png?raw=true)
+![](https://github.com/Harsh9174/Sms-Email-spam-detector-ML/blob/main/Data/insights.png?raw=true)
+![](https://github.com/Harsh9174/Sms-Email-spam-detector-ML/blob/main/Data/insights1.png?raw=true)
+
 
 # Model 
 ![](https://github.com/Harsh9174/Sms-Email-spam-detector-ML/blob/main/Data/Screenshot%20(15).png?raw=true)
