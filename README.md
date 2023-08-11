@@ -51,7 +51,7 @@
 
 
 # Conclusion
-* our SMS/Email Spam Detector, powered by machine learning, is a significant advancement in combating spam. It's a robust system that effectively identifies and filters unwanted messages, enhancing communication safety. While challenges were overcome, the battle against evolving spam tactics continues, requiring ongoing updates and user input. This project's success highlights the potential of machine learning to address real-world issues, offering a more secure digital environment for everyone.
+## our SMS/Email Spam Detector, powered by machine learning, is a significant advancement in combating spam. It's a robust system that effectively identifies and filters unwanted messages, enhancing communication safety. While challenges were overcome, the battle against evolving spam tactics continues, requiring ongoing updates and user input. This project's success highlights the potential of machine learning to address real-world issues, offering a more secure digital environment for everyone.
 
 
 
